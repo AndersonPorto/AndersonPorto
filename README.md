@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anderson Santos
+# 👋 Anderson Santos
 
 Full stack developer desde 2020.
 
