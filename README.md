@@ -1,6 +1,6 @@
 # 👋 Anderson Santos
 
-Full stack developer desde 2020.
+Developer desde 2020.
 
 ## 📫 Contato
 - 📧 Email: oabcdocomputador@gmail.com
